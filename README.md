@@ -123,6 +123,83 @@ Generic Terms and Definitions
    
 
 
-### Configuration
+### Understanding of Configuration of your Laptop and Desktop
 ***
   - Configuration simply means arrangement of the hardware and software of a system.
+  
+#### Desktop or Laptop Configuration
+- **Assembled**
+  - Components are of differents brands
+  - Intel-Core, HP Desktop, Acer etc
+- **BrandWise**
+  - All the components belongs to same brand
+  - Dell
+  
+- ***Processors***
+  
+  - **Core-i3** 2cpu 2MB cache-l2
+  
+  - **Core-i5** 4cpu 4MB cache-l2
+  
+  - **Core-i7** 8cpu 8Mb cache-l2
+  
+  - **Core-i9** 10cpu 12MB cache-l2
+  
+  - Core basically means multiple CPUs
+  
+  - Quad-core, Hexa-Core, Octa-core
+  
+  - **Cache Memory**, increase the perdormance & response time
+  
+  - **Frequency**, the number of instruction cycles executed per second ***1.60GHz   1.80 GHz***
+  
+- ***RAM***
+  - DDR4 4GB/8GB/12GB/16GB
+
+- ***ROM***
+  - **SSD** and **HDD**
+  
+  - Solid State Drive is expensive and very fast compare to HDD  SSD 128GB/256GB/521GB
+  
+  - Hard Disk Drive is cheap and slow  HDD 512GB/1TB/2TB/5TB
+  
+- ***Graphics card***
+
+  - Improve the resolution and quality of screen or display
+
+  - Mainly Used for better experience in Gaming and Editing
+
+- ***Monitor***
+
+  - Size of Screen - 12 inches/15 inches/ 24 inches
+  
+  - Resolution 1024x768p / 1920x1080p
+
+
+- ***Operating System***
+  
+  - DOS/Windows/Linux/Mac-OS/Android
+  
+  - DOS means Empty No OS you need to buy or purchase OS for your device
+  
+  - Some systems has preinstalled Windows10 Genuine on the device cost extra 5k to 7k
+  
+  - Windows10 is paid
+  
+  - Linux is free
+   
+- ***Ports***
+  - How many ports are available on the system
+  
+  - **USB-Ports** with their speed 2.0/3.0
+  
+  - **HDMI-Ports** 2.0/3.0
+  
+  - **MemoryCard-Ports** 2.0/3.0
+  
+
+### How to check your system configuration
+  - **Right Click** on myPc
+  - Go to **properties**
+  - All configurations of your system are informed here
+  
