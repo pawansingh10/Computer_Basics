@@ -34,6 +34,7 @@ Generic Terms and Definitions
    
 
 ##### Computer is basically designed by using these
+
 1. **Input Unit**
    - Computer need to receive instructions and data in order to solve a problem
    - Input Unit basically links the external world or environment to computer
@@ -51,9 +52,13 @@ Generic Terms and Definitions
 3. **Memory Unit**
    - The instructions and data that has to be process or the result that has been generated after processing needs to be store and where it stores is **Memory**
    - A computer memory is refers to as electonic storing space for instructions and data.
-   1. ***Primary Memory or Main Memory***
+   
+   
+   ##### ***Primary Memory or Main Memory***
      - Stores program and data i.e currently needed by CPU
-     a. ***RAM***
+
+
+     ###### ***RAM***
       - Random Access Memory
       - Voilatile
       - Tempory store if power cutt
@@ -70,42 +75,47 @@ Generic Terms and Definitions
       - DDR RAM - DDR1, DDR2, DDR3, DDR4
 
 
-     b. ***ROM***
+     ###### ***ROM***
       - Read Only Memory
       - Non volatile
       - Permanent store even if power shut-down
       - Slow compare to RAM
       
       
-    2. ***Secondary Memory or External Memory***
+    ##### ***Secondary Memory or External Memory***
       - In secondary Memory Data is first transfer to Main Memory and then routed to processing Unit
       - Information/Data stored is permanent unless intensionally deleted | Non Volatile
       - Little Slow in interacting with MicroProcessor
       - Examples - Magnetic tape, optical disks, floppy disc, punch-card, flash memory(USB drives)
     
-    3. ***Cache Memory***
+    
+    ##### ***Cache Memory***
       - Cache Memory is high speed memory placed between CPU and RAM.
       - Cache Memory stores data that is used more often, temporarily stored them and make available for CPU at fast rate
       - Increase Speed of Processing
       - Expensive thats why small in size 256KB, 512KB, 2MB, 4MB, 8MB
-      1. ***L1 Cache***
+      
+      ###### ***L1 Cache***
        - Extremely FastRelatively Small
        - 32KB to 512KB
        - Present Inside CPU
-      2. ***L2 Cache***
+      
+      ###### ***L2 Cache***
        - High Speed
        - 1MB to 2MB
        - Located outside the CPU interconnected with CPU
-      3. ***L3 Cache***
+       
+      ###### ***L3 Cache***
        - Improve the performence
        - Improve working of L1 and L2
        - It usually double the RAM Speed
 
 
-5. **Output Unit**
+4. **Output Unit**
    - It is use to print or display the result, which are stored in memory after processing
    - Output units links the computer to outside world
    - Devices like Monitor, Speaker, Printer etc
+   
 
 ### Configuration
   - Congiguration simply means arrangement of the hardware and software of a system.
