@@ -3,37 +3,43 @@ Generic Terms and Definitions
 
 
 ### Computer
+***
 
   * ***Computer is an electronic device that can store, recall, process data and perform tasks or complex calculations according to the sets of instructions.***
   
-  * **Hardware**
+  1. **Hardware**
     - Hardware, basically physical parts of device.
     - Keyboard, Mouse, Desktop, RAM, CPU, HardDisk
   
-  * **Software**
+  2. **Software**
     - **Software** is basically a set of computer **programs**.
     - **Programs** is basically a set of **instructions**.
     - When the program is in execution, this is known as **Process**
-    1. ***System Software***
-      - Operating System
-      - Windows, Linux, Mac-OS, Android etc
+     
+      - ***1. System Software***
+       - Operating System
+       - Windows, Linux, Mac-OS, Android etc
       
-    3. ***Application Software***
-      - Social-Media Apps
-      - LinkedIn, Instagram, Facebook, WhatsApp, Telegram etc
-      - Commercial Apps
-      - Amazon, FlipCart, IRCTC etc
+      -  ***2. Application Software***
+       - Social-Media Apps
+       - LinkedIn, Instagram, Facebook, WhatsApp, Telegram etc
+       - Commercial Apps
+       - Amazon, FlipCart, IRCTC etc
   
-  * **Data**   
-    - Everything is data
-    - Raw Information
-    - > ***Data about Data is known as Meta-Data***
+   3. **Data**   
+     - Everything is data
+     - Raw Information
+     > ***Data about Data is known as Meta-Data***
   
-  * **Users**
-    - Users is consumers of services
+   4. **Users**
+     - Users is consumers of services
    
 
-##### Computer is basically designed by using these
+
+
+
+### Computer is basically designed by using these
+***
 
 1. **Input Unit**
    - Computer need to receive instructions and data in order to solve a problem
@@ -117,5 +123,7 @@ Generic Terms and Definitions
    - Devices like Monitor, Speaker, Printer etc
    
 
+
 ### Configuration
-  - Congiguration simply means arrangement of the hardware and software of a system.
+***
+  - Configuration simply means arrangement of the hardware and software of a system.
