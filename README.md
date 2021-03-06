@@ -235,7 +235,12 @@ Generic Terms and Definitions
 #### **IO Ports & Interfaces**
 - A port is a socket on the computer used to connect external device to computer.
 
--Like Printer, Scanner, Keyboard, 
+- Like Printer, Scanner, Keyboard, Mouse etc
+
+- Differents types of Port
+- Serial Port, Parallel Port, USB Port, IDE Port, Ethernet Pport,  Modem port, HDMI port
+
+
 
 
 
