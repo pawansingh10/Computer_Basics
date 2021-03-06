@@ -191,9 +191,53 @@ Generic Terms and Definitions
 > ***CPU performence is measured by number of instructions executed per second in MIPs/BIPs***
 
 > ***MicroProcessor : An electronic components, It is a single integrated chip (IC)***\
-> ***This tiny chip contains entire ***
 
-#### ****
+> ***This tiny chip contains entire computation engine***
+
+> **Example intel, AMD, Celeron etc**
+
+
+#### **BIOS-Basic Input Output System**
+- BIOS is a small chip on MotherBoard that holds a set of instructions to load the hardware setting required like leyboard, mouse,monitor or disk drivers.
+
+- BIOS run only when the computer is On
+
+> **POST - Power On Self Test, it checks hardware devices are present or funtioning well or not!** 
+
+
+#### **CMOS**
+- Complementry Metal Oxide Semiconductor
+
+- It is a type of memory chip that store date, time and system setup parameters.
+
+- These parameters are loaded every time the computer started
+
+
+> **BIOS and CMOS are powered by a small Lithium Ion Battery located on MotherBoard**
+
+
+#### **Slots**
+- Slots are opening space in a computer where we can insert a printed circuit board
+
+- Slots are often called EXpansion slot
+
+- Differents types of slots - ISA, PCI, AGP, RAM slot, Processor Slot
+
+
+#### **Disk Controller**
+- A device that connects a disk drive to computer BUS enabling the drive to exchange data with other device
+
+- **HardDisk Controller**
+
+- **FloppyDisk Controller**
+
+
+#### **IO Ports & Interfaces**
+- A port is a socket on the computer used to connect external device to computer.
+
+-Like Printer, Scanner, Keyboard, 
+
+
 
 
 
