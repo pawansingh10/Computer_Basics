@@ -123,6 +123,85 @@ Generic Terms and Definitions
    
 
 
+
+## **MotherBoard**
+***
+- MotherBoard is a large **Printed Circuit Board** called Main Circuit Board of computer.
+
+- It contains CPU, Memory, Expansion Slot, BUS, Media-Controller and other electronic components
+
+
+### **Characteristics Of MotherBoard**
+
+* **Form Factor**
+  - MotherBoard Geometry, Dimenstions, Arrangements & Electrical Requirements
+  
+* **ChipSet**
+  - Control majority of resources of computer
+  
+  - Co-ordinate in data transfer between various componenets of computer
+  
+* **Processor Socket**
+  - Rectangular Connector on which processor is mounted vertically
+
+  - It may be in square shape with multiple connecters
+  
+### **Types of MotherBoard**
+  - **XT MotherBoard**
+    - Basic
+  - **AT MotherBoard**
+    - Advance
+    
+  - **Baby AT MotherBoard**
+    - Combination of XT + AT
+    
+  - **ATX MotherBoard**
+    - Extends Advance Features
+    
+ 
+###  **Components Of MotherBoard**
+   -  **Processor***
+
+   - ***BIOS***
+
+   - ***CMOS***
+
+   - ***Slots***
+
+   - ***Disk Controllers***
+
+   - ***I/O Ports and Interfaces***
+
+   - ***BUS***
+   
+
+#### **Processor (CPU)**
+- The processor or CPU is the main component of MotherBoard is known as **Brain** of computer
+
+- CPU consists of **CU, ALU and Register**
+
+- CU is responsible for organizing processing of data and instructions
+
+- ALU is responsible for Arithmatical and Logical operations that perform on data
+
+- Register is a temporary storage area for holding data and instructions
+
+> ***Clock Speed : A measure of Processor speed in MHz to GHz***
+
+> ***CPU performence is measured by number of instructions executed per second in MIPs/BIPs***
+
+> ***MicroProcessor : An electronic components, It is a single integrated chip (IC)***\
+> ***This tiny chip contains entire ***
+
+#### ****
+
+
+
+
+
+
+
+
 ### Understanding of Configuration of your Laptop and Desktop
 ***
   - Configuration simply means arrangement of the hardware and software of a system.
