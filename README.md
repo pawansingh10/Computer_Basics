@@ -6,31 +6,31 @@ Generic Terms and Definitions
 ***
 * ***Computer is an electronic device that can store, recall, process data and perform tasks or complex calculations according to the sets of instructions.***
   
- **1. Hardware**
+ * **1. Hardware**
     - Hardware, basically physical parts of device.
     - Keyboard, Mouse, Desktop, RAM, CPU, HardDisk
   
- **2. Software**
+ * **2. Software**
     - **Software** is basically a set of computer **programs**.
     - **Programs** is basically a set of **instructions**.
     - When the program is in execution, this is known as **Process**
      
-   - ***1. System Software***
+    - ***1. System Software***
      - Operating System
      - Windows, Linux, Mac-OS, Android etc
       
-   -  ***2. Application Software***
+    -  ***2. Application Software***
      - Social-Media Apps
      - LinkedIn, Instagram, Facebook, WhatsApp, Telegram etc
      - Commercial Apps
      - Amazon, FlipCart, IRCTC etc
   
- **3. Data**   
+ * **3. Data**   
      - Everything is data
      - Raw Information
      - > ***Data about Data is known as Meta-Data***
   
- **4. Users**
+ * **4. Users**
      - Users is consumers of services
    
 
