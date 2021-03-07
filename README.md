@@ -6,31 +6,31 @@ Generic Terms and Definitions
 ***
 * ***Computer is an electronic device that can store, recall, process data and perform tasks or complex calculations according to the sets of instructions.***
   
-1. **Hardware**
+ **1. Hardware**
     - Hardware, basically physical parts of device.
     - Keyboard, Mouse, Desktop, RAM, CPU, HardDisk
   
-2. **Software**
+ **2. Software**
     - **Software** is basically a set of computer **programs**.
     - **Programs** is basically a set of **instructions**.
     - When the program is in execution, this is known as **Process**
      
-  - ***1. System Software***
+   - ***1. System Software***
      - Operating System
      - Windows, Linux, Mac-OS, Android etc
       
-  -  ***2. Application Software***
+   -  ***2. Application Software***
      - Social-Media Apps
      - LinkedIn, Instagram, Facebook, WhatsApp, Telegram etc
      - Commercial Apps
      - Amazon, FlipCart, IRCTC etc
   
- 3. **Data**   
+ **3. Data**   
      - Everything is data
      - Raw Information
      - > ***Data about Data is known as Meta-Data***
   
- 4. **Users**
+ **4. Users**
      - Users is consumers of services
    
 
@@ -40,27 +40,29 @@ Generic Terms and Definitions
 ### Computer is basically designed by using these
 ***
 
-1. **Input Unit**
+**1. Input Unit**
    - Computer need to receive instructions and data in order to solve a problem
    - Input Unit basically links the external world or environment to computer
    - It consists of devices
    - Keyboard, Mouse, Mic etc
 
 
-2. **Central Processing Unit** CPU
+**2. CPU - Central Processing Unit**
    - CPU interpret the instruction in program and execute them one by one.
-   - **1. Control Unit** CU
+   - **1. CU - Control Unit** 
     - Transfer & Redirect **program instructions** and **data** from various units  
-   - **2. Arithmetic & Logic Unit** ALU
+   - **2. ALU - Arithmetic & Logic Unit** 
     - Performs **Arithmetical & Logical Operations** and control the speed of these operations
       
       
-3. **Memory Unit**
+**3. Memory Unit**
    - The instructions and data that has to be process or the result that has been generated after processing needs to be store and where it stores is **Memory**
    - A computer memory is refers to as electonic storing space for instructions and data.
    
-   
+
+
 ### ***Primary Memory or Main Memory***
+***
    - Stores program and data i.e currently needed by CPU
 
 #### ***RAM***
@@ -88,6 +90,7 @@ Generic Terms and Definitions
       
       
 ### ***Secondary Memory or External Memory***
+***
    - In secondary Memory Data is first transfer to Main Memory and then routed to processing Unit
    - Information/Data stored is permanent unless intensionally deleted | Non Volatile
    - Little Slow in interacting with MicroProcessor
@@ -116,7 +119,7 @@ Generic Terms and Definitions
    - It usually double the RAM Speed
 
 
-4. **Output Unit**
+**4. Output Unit**
    - It is use to print or display the result, which are stored in memory after processing
    - Output units links the computer to outside world
    - Devices like Monitor, Speaker, Printer etc
@@ -241,9 +244,65 @@ Generic Terms and Definitions
 - Serial Port, Parallel Port, USB Port, IDE Port, Ethernet Pport,  Modem port, HDMI port
 
 
+#### **BUS**
+- A Bus is a collection of parallel wires that forms a pathway to carry address, data and control signals.
+
+* The features of BUSes are :
+ 
+ - A bus is set of wires and each wire can carry 1 bit of data
+ 
+ - A bus width is defined by numbers of wires in the bus
+ 
+* BUSes are generally of two types :
+ 
+ - **1. Internal BUS**
+ - It connects major computer components like Processor, Memory and I/O 
+ 
+ - Also known as ***System Bus***
+ 
+ 
+ - **2. External BUS**
+  
+ - It connects the different external devices peripherals, expansion slots, I/O ports to rest of computer
+ 
+ - Also known as ***Expansion Bus***
+
+> ***External Bus is slower compare to internal bus***
+
+* System Bus or Expansion Bus is comprises of three Buses
+
+- **1. Address Bus**
+  - It connects CPU and RAM with a set of line similar to data bus
+  
+  - The address bus Width determines the maximum number of memory location the computer can address
+
+
+- **2. Data Bus**
+  - It provides a path to transfer data between CPU and Memory
+  
+  - The data bus may be consist of 32, 64, 128 lines of wire 
+
+-  **3. Control Bus**
+  - It is used to control the access and the use of data and address line
 
 
 
+####  **SMPS - Switch Mode Power Supply**
+
+- SMPS converts AC power from Electical outlet to DC power need by system components
+
+- SMPS contain power card pluf, fan for cooling because it generates a lot of heat
+
+
+##### **UPS - Uninterrupted Power Supply**
+
+- An UPS is a power supply that include a battery to maintain power in the event a power failure.
+
+- UPS keeps computer running for several minutes to hours in case of power failure
+
+- There are two types of UPS
+  - Offline UPS
+  - Online UPS 
 
 
 
